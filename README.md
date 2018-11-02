@@ -557,3 +557,7 @@ git commit -am "Navigation fixs"   # сделать коммит
 *.css  diff=css
 *.scss diff=css
 ```
+
+### Полезные ссылки
+
+[Commit Convention](https://www.conventionalcommits.org/ru/v1.0.0-beta.2/)
